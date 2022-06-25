@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Go4tsy
-- 👀 I’m interested in ... everything always ready to learn and try new things.
+- 👀 I’m interested in ... web developpment and cybersecurity always ready to learn and try new things.
 - 🌱 I’m currently learning ... front-end and back-end. Will learn cyber security in my free time.
-- 💞️ I’m looking to collaborate on ... Building websites or apps.
+- 💞️ I’m looking to collaborate on ... Building websites , maybe applications.
 - 📫 https://www.linkedin.com/in/sean-moses-etienne-b5356823a/
 
 <!---
