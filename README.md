@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goatsy 🐐</h1>
+<h1 align="center">Hi 👋, I'm Sean 🐐</h1>
 <h3 align="center">A passionate young full-stack developer from Canada, Montreal!</h3>
 
 - 🔭 I’m currently working on [capStonePortfolio](https://goatsy-portfolio.netlify.app/)
