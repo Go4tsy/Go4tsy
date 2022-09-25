@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mosesetienne@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MUE8JI6x0d5xt31guNYvwWI5XAz7TpQ_ACS5NA4-wnM/view]
+- 📄 Know about my experiences [https://docs.google.com/document/d/1MUE8JI6x0d5xt31guNYvwWI5XAz7TpQ_ACS5NA4-wnM/view](https://docs.google.com/document/d/1MUE8JI6x0d5xt31guNYvwWI5XAz7TpQ_ACS5NA4-wnM/view)
 
 - ⚡ Fun fact **Goatsy comes from Goat :P**
 
