@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mosesetienne@hotmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Moses/Downloads/Sean-Moses%20Etienne%20Resume.pdf](file:///C:/Users/Moses/Downloads/Sean-Moses%20Etienne%20Resume.pdf)
+- 📄 Know about my experiences [file:///C:/Users/Moses/Downloads/Sean-Moses%20Etienne%20Resume.pdf]
 
 - ⚡ Fun fact **Goatsy comes from Goat :P**
 
